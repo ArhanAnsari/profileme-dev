@@ -64,9 +64,9 @@ export default function LandingLayout({ children }) {
           name="description"
           content="ProfileMe.dev | Create an amazing GitHub profile in minutes"
         />
-        <meta name="author" content="Dan Cranney" />
+        <meta name="author" content="Arhan Ansari" />
         <meta property="og:site_name" content="ProfileMe.dev" />
-        <meta property="og:site" content="http://www.profileme.dev" />
+        <meta property="og:site" content="https://profileme-dev-steel.vercel.app/" />
         <meta property="og:title" content="ProfileMe.dev" />
         <meta
           property="og:description"
