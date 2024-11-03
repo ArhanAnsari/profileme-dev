@@ -58,7 +58,7 @@ Web Developer
           </p>
           <div className="flex items-center gap-x-4">
             <a
-              href="https://github.com/danielcranney/profileme-dev/"
+              href="https://github.com/ArhanAnsari/profileme-dev/"
               target="_blank"
               rel="noreferrer"
               className="transition-all duration-150 ease-in-out btn-gray btn-sm sm:btn-md md:btn-lg"
@@ -77,7 +77,7 @@ Web Developer
           </div>
           <a
             className="transition-all duration-150 ease-in-out btn-gray btn-sm sm:btn-sm tracking-wide"
-            href="https://github.com/sponsors/danielcranney"
+            href="https://github.com/sponsors/ArhanAnsari"
             rel="noreferrer"
             target="_blank"
           >
