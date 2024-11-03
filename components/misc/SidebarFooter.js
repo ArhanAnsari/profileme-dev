@@ -13,8 +13,7 @@ const SidebarFooter = () => {
       <p className="text-xs text-white dark:text-white mb-0">
         &copy; {new Date().getFullYear()} Arhan Ansari
       </p>
-
-      /*<div className="flex text-xs text-white dark:text-white">
+{/*<div className="flex text-xs text-white dark:text-white">
         <a
           href="https://www.x.com/danielcranney"
           rel="noreferrer"
@@ -32,7 +31,7 @@ const SidebarFooter = () => {
         >
           Buy Me a Coffee
         </a>
-      </div>*/
+      </div>*/}
     </div>
   );
 };
