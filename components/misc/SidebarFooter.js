@@ -1,21 +1,20 @@
 import React from "react";
 import Link from "next/link";
 import GitHubIcon from "./GitHubIcon";
-import XIcon from "./XIcon";
+//import XIcon from "./XIcon";
 
 const SidebarFooter = () => {
   return (
     <div className={`z-40 flex flex-col px-6 gap-y-2`}>
       <article className="flex gap-x-2 items-center">
         <GitHubIcon />
-        <XIcon />
       </article>
 
       <p className="text-xs text-white dark:text-white mb-0">
-        &copy; {new Date().getFullYear()} Dan Cranney
+        &copy; {new Date().getFullYear()} Arhan Ansari
       </p>
 
-      <div className="flex text-xs text-white dark:text-white">
+      /*<div className="flex text-xs text-white dark:text-white">
         <a
           href="https://www.x.com/danielcranney"
           rel="noreferrer"
@@ -33,7 +32,7 @@ const SidebarFooter = () => {
         >
           Buy Me a Coffee
         </a>
-      </div>
+      </div>*/
     </div>
   );
 };
