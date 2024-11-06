@@ -5,7 +5,7 @@ const LeaveFeedback = () => {
   const { state, dispatch } = useContext(StateContext);
   return (
     <a
-      href="mailto:danielcranney@gmail.com"
+      href="mailto:arhanansari2009@gmail.com"
       className={`btn-sm md:hover:bg-light-200 ${
         state.sidebarOpen
           ? "bg-dark-900/20 md:bg-light-200/50 hover:bg-dark-900/30 dark:hover:bg-dark-600 dark:bg-dark-700 text-white hover:text-white dark:bg-dark-700-20 md:dark:bg-dark-700"
