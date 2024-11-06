@@ -23,7 +23,7 @@ export default function Changelog() {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://github.com/danielcranney/ArhanAnsari/commits/main"
+            href="https://github.com/ArhanAnsari/commits/main"
             className="btn-md btn-brand ml-auto self-end group gap-x-1.5"
           >
             <GitHubIcon />
